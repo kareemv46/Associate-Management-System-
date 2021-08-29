@@ -1,0 +1,112 @@
+1)enquiry_txt and demo_schedule:
+SELECT c.id,c.name,c.mail,c.mob,c.course,c.status,o.demoday,o.day,o.time FROM enquiry_txt c JOIN demo_schedule o ON (c.id= o.id);
+
+
+2)select enquiry_txt and demo_missed:
+SELECT c.id,c.name,c.mail,c.mob,c.course,c.status,o.reschedule_date,o.time FROM enquiry_txt c JOIN demo_missed o ON (c.id = o.id);
+
+
+3)enroll and batch(which student enroll for whichbatch)
+SELECT e.id,e.name,e.mail,e.mob,e.course,b.joining_date,b.week_day,b.day,b.time FROM enroll e JOIN batch_distribution b ON(e.id=b.id);
+
+
+4)students who enrolled for weekend batch
+SELECT e.id,e.name,e.mail,e.mob,e.course,b.joining_date,b.week_day,b.day,b.time FROM enroll e JOIN batch_distribution b ON(e.id=b.id) where b.day='Saturday';
+
+
+5)students who enrolled for weekday batch
+SELECT e.id,e.name,e.mail,e.mob,e.course,b.joining_date,b.week_day,b.day,b.time FROM enroll e JOIN batch_distribution b ON(e.id=b.id) where b.day='Wednesday';
+
+
+6)Detils of student whoes payment mode is phonepay
+SELECT id,name,mail,mob,course,payment_mode FROM enroll where payment_mode='Phonepe'
+
+
+7)Detils of student whoes payment mode is Googlepay
+SELECT id,name,mail,mob,course,payment_mode FROM enroll where payment_mode='Googlepay';
+
+
+8)Detils of student who paid fees by card
+SELECT id,name,mail,mob,course,payment_mode FROM enroll where payment_mode='Card';
+
+
+9)Detils of student who paid fees by Paytm
+SELECT id,name,mail,mob,course,payment_mode FROM enroll where payment_mode='Paytm';
+
+
+10)Detils of student who paid fees Cash
+SELECT id,name,mail,mob,course,payment_mode FROM enroll where payment_mode='Cash';
+
+
+11)Details of student who is not enrolled yet
+SELECT id,name,mail,mob,course,status FROM enroll where status='Not enrolled';
+
+
+12)Details of student who is enrolled
+SELECT id,name,mail,mob,course,status FROM enroll where status='Enrolled';
+
+
+13)Details of student who paid all fees
+SELECT id,name,mail,mob,course,payment_status FROM enroll where payment_status='Paid';
+ 
+ 
+14)Details of student whoes fees pending
+SELECT id,name,mail,mob,course,payment_status FROM enroll where payment_status='Pending';
+
+
+15)Details of student whoes 1 installment pending
+select id,name,mail,mob,course,total_installment,installment_paid,Next_installment_date,payment_status,installment_left,ﬁnal_fee FROM enroll where installment_left=1;
+
+
+16)Details of student whoes 2 installment pending
+SELECT id,name,mail,mob,course FROM enroll where installment_left=2
+
+
+17)Details of student who is paying fees in 2 installments
+SELECT * FROM enroll where total_installment=2
+
+
+18)Details of student who is paying fees in 3 installments 
+SELECT * FROM enroll where total_installment=3
+
+
+19)All details of student who enrolled for Bigdata batch
+select * from batch_distribution b join enroll e on(b.id=e.id) where b.course='BD';
+
+
+20)All details of student who enrolled for Full stack development
+SELECT * FROM enroll e JOIN batch_distribution b ON(e.id=b.id) where e.course='FSD'
+
+
+21)All details of student who enrolled for Artiﬁtial Intelligence
+SELECT * FROM enroll e JOIN batch_distribution b ON(e.id=b.id) where e.course='AI'
+
+
+22)All details of student who enrolled for python batch
+SELECT * FROM enroll e JOIN batch_distribution b ON(e.id=b.id) where e.course=‘PY’
+
+
+23)payment details of student who enrolled for big data batch
+SELECT * FROM enroll where status='Enrolled' and course='BD'
+
+
+24)payment details of student who enrolled for FSD batch
+SELECT * FROM enroll where status='Enrolled' and course='FSD';
+
+
+25)payment details of student who enrolled for AI batch
+SELECT * FROM enroll where status='Enrolled' and course='AI'
+
+
+26)count of students who enrolled for AI course
+SELECT COUNT(name) FROM enroll where course="AI" and status='Enrolled';
+
+
+27)informtion of student whose demo_missed
+SELECT * FROM demo_missed;
+
+28)Insert:
+insert into table enquiry values(151,'mar','mar@gmail.com',9988998899,'BD',30000,10,'16-09-21','DD','Enrolled'),(152,'mario','mario@gmail.com',9988998899,'AI',40000,15,'18-09-21','DND','Not Enrolled');
+
+29)Update:
+UPDATE enquiry set status = 'DD' where id = 152;
