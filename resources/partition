@@ -1,0 +1,8 @@
+**PARTITION BY STATUS FINAL**
+
+set hive.exec.dynamic.partition.mode=nonstrict;
+set hive.exec.dynamic.partition=true;
+
+1)create table enquiry_part(id int,name string,mail string,mob bigint,course string,fee int,discount int,dte string,statis string) partitioned by (status_ﬁnal string) row format delimited ﬁelds terminated by ','stored as textﬁle;
+
+2)from enquiry a insert overwrite table enquiry_part partition (status_ﬁnal) select a.id,a.name,a.mail,a.mob,a.course,a.fee,a.discount,a.dte,a.status,a.status_ﬁnal;
