@@ -1,0 +1,47 @@
+set hive.support.concurrency = true;
+set hive.enforce.bucketing = true;
+set hive.exec.dynamic.partition.mode = nonstrict;
+set hive.txn.manager =
+org.apache.hadoop.hive.ql.lockmgr.DbTxnManager;
+set hive.compactor.initiator.on = true;
+
+
+***ORC TABLE***
+1) create table enquiry(id INT,name STRING,mail STRING,mob BIGINT,course STRING,fee INT,discount INT,dte STRING,status STRING,status_ﬁnal string)clustered by (id) into 2 buckets row format delimited ﬁelds terminated by ',' stored as orc tblproperties("transactional"='true');
+
+
+
+***ENQUIRY***
+1.x)create table enquiry_txt(id INT,name STRING,mail STRING,mob BIGINT,course STRING,fee INT,discount INT,dte STRING,status STRING,status_ﬁnal string)clustered by (id) into 2 buckets row format delimited ﬁelds terminated by ',' stored as texﬁle tblproperties("transactional"='true');
+  
+2)load data local inpath '/home/cloudera/Desktop/enquiry.csv' into table enquiry_txt;
+
+2.x) insert into table enquiry select * from enquiry_txt;
+
+
+
+***DEMO_SCHECULE***
+3)create table demo_schedule(id INT,name STRING,mail STRING,mob BIGINT,course STRING,demoday STRING,day STRING,dte string,time STRING)row format delimited ﬁelds terminated by ',' stored as textﬁle;
+
+3.x)LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/demo_schedule.csv' OVERWRITE INTO TABLE demo_schedule;
+
+
+
+**DEMO MISSED**
+4)create table demo_missed(id int,name string,mail string,mob bigint,course string,reschedule_date string,time string)row format delimited ﬁelds terminated by ',' lines terminated by '\n' stored as textﬁle;
+ 
+4.x)LOAD D ATA LOCAL INPATH '/home/cloudera/Desktop/demo_missed.csv' OVERWRITE INTO TABLE demo_missed;
+
+
+
+***ENROLL***
+5)create table enroll (id int,name string,mail string,mob bigint,course string,status string,payment_mode string,total_installment int,installment_paid int,Next_installment_date string,payment_status string,installment_left int,ﬁnal_fee int) row format delimited ﬁelds terminated by ',' stored as textﬁle;
+
+5.x)LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/enroll.csv' OVERWRITE INTO TABLE enroll;
+
+
+
+***BATCH DISTRIBUTION***
+6) create table batch_distribution(id int,name string,mail string,mob bigint,course string,joining_date string,week_day string,day string ,time string) row format delimited ﬁelds terminated by ',' stored as textﬁle;
+
+6.x)LOAD DATA LOCAL INPATH '/home/cloudera/Desktop/batch_distribution.csv' OVERWRITE INTO TABLEbatch_distribution;
