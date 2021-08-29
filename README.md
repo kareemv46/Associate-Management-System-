@@ -1,0 +1,2 @@
+# HIVE-Project
+->This project created in hive.  ->This project is aboout create and maintain a database for candidate enrollment where they provide training for various courses.  ->In this project we created five tables.  ->We performed various operations in this project like table join, partitioning, updating etc.  ->We also performed queries in tables where we extracted the data from it.  ->We run this project in hive terminal in cdh5 and hue from browser. 
