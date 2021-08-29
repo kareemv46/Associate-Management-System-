@@ -1,6 +1,14 @@
 # HIVE-Project
 # FUTURE 4 IT
 
+### DESCRIPTION
+->This project created in hive. <br> 
+->This project is aboout create and maintain a database for candidate enrollment where they provide training for various courses. <br>
+->In this project we created five tables. <br>
+->We performed various operations in this project like table join, partitioning, updating etc. <br>
+->We also performed queries in tables where we extracted the data from it. <br>
+->We run this project in hive terminal in cdh5 and hue from browser. <br>
+
 ### TOOLS AND TECHNOLOGIES
 
 1)Cloudera5 
