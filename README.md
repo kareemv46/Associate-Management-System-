@@ -11,31 +11,31 @@
 
 ### TOOLS AND TECHNOLOGIES
 
-1)Cloudera5 
-2)Hadoop 
-3)Hue 
-4)Github 
-5)Microsoft Excel 
-6)Microsoft Powerpoint 
-->This project created in hive.  ->This project is aboout create and maintain a database for candidate enrollment where they provide training for various courses.  ->In this project we created five tables.  ->We performed various operations in this project like table join, partitioning, updating etc.  ->We also performed queries in tables where we extracted the data from it.  ->We run this project in hive terminal in cdh5 and hue from browser. 
+1)Cloudera5 <br>
+2)Hadoop <br>
+3)Hue <br>
+4)Github <br>
+5)Microsoft Excel <br> 
+6)Microsoft Powerpoint <br>
+->This project created in hive.  <br>->This project is aboout create and maintain a database for candidate enrollment where they provide training for various courses. <br> ->In this project we created five tables.  <br>->We performed various operations in this project like table join, partitioning, updating etc.  <br>->We also performed queries in tables where we extracted the data from it. <br> ->We run this project in hive terminal in cdh5 and hue from browser. 
 
 ### FEATURES
 
-->Availability of multiple courses, Discounts on each course. 
-->Availability of demo sessions on weekdays as well as weekends. 
-->Rescheduling of demo session if missed. 
-->Multiple payment modes. 
-->Installments availability on any types of payment mode. 
-->Availability of both Online and Offline mode of training. 
-->Updation can be performed on master table. 
+->Availability of multiple courses, Discounts on each course. <br>
+->Availability of demo sessions on weekdays as well as weekends. <br>
+->Rescheduling of demo session if missed. <br>
+->Multiple payment modes. <br>
+->Installments availability on any types of payment mode. <br>
+->Availability of both Online and Offline mode of training. <br>
+->Updation can be performed on master table. <br>
 
 ### TABLES
 
-1)ENQUIRY table(ORC and master table) 
-2)DEMO_SCHEDULE table 
-3)DEMO_MISSED table 
-4)COURSE_ENROLL Table 
-5)BATCH_DISTRIBUTION table 
+1)ENQUIRY table(ORC and master table) <br>
+2)DEMO_SCHEDULE table <br>
+3)DEMO_MISSED table <br>
+4)COURSE_ENROLL Table <br>
+5)BATCH_DISTRIBUTION table <br>
 
 ### enquiry table(ORC and master table)
 
