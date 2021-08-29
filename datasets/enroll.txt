@@ -1,0 +1,61 @@
+1,Dhruvana,dhru@gmail.com,9618530448,BD,Enrolled,Cash,3,1,18-09-21,Pending,2,27000
+4,"Anusha""",anu@gmail.com,7645092347,DS,Not enrolled,,,,,,,
+6,Maneesh,maneesh@gmail.com,9963555228,BD,Enrolled,Phonepe,3,1,19-09-21,Pending,2,27000
+11,Kruthin,kruthin@ymail.com,7459032446,BD,Enrolled,Googlepay,3,1,20-09-21,Pending,2,27000
+13,Nikhil,nikhil@gmail.com,8765003641,PY,Enrolled,Card,3,1,21-09-21,Pending,2,19000
+16,Harinath,harinath@gmail.com,7656349012,BD,Enrolled,Cash,3,1,20-09-21,Pending,2,27000
+17,Harish,hariish@gmail.com,9007487654,AI,Enrolled,Paytm,2,1,21-09-21,Pending,1,34000
+19,Bindu,bindu@gmail.com,9007483120,PY,Enrolled,Phonepe,2,1,19-09-21,Pending,0,19000
+22,Praveen,praveen@gmail.com,9988775632,FSD,Enrolled,Googlepay,1,1,21-09-21,Paid,0,23000
+23,Anish,anish@gmail.com,9987334456,AI,Enrolled,Card,3,1,21-09-21,Pending,2,34000
+26,trupti,tc@gmail.com,9587632584,DS,Enrolled,Cash ,2,1,20-09-21,Pending,1,34000
+27,amol,amol234@gmail.com,2398754166,AI,Not enrolled,,,,,,,
+29,ram,rd65@gmail.com,1122334455,DS,Not enrolled,,,,,,,
+30,neha,nehaghosh@gmail.com,9874563212,BD,Enrolled,Paytm,1,1,21-09-21,Paid,0,27000
+32,surya,sdev@gmail.com,9988647512,AI,Enrolled,Phonepe,1,1,19-09-21,Paid ,0,34000
+35,rutuja,rutu49@gmail.com,4596325875,PY,Not enrolled,,,,,,,
+36,sameer,sam678@gmail.com,1986984752,FSD,Enrolled,Card,1,1,20-09-21,Paid,0,23000
+37,rahul,rarul99@gmail.com,3366998898,BD,Not enrolled, ,,,,,,
+40,rajiv,raj8@gmail.com,2265998745,DS,Enrolled,Paytm,1,1,19-09-21,Paid,0,34000
+43,ruhi,ruhujain@gmail.com,1233216545,FSD,Not enrolled,,,,,,,
+47,archita,archusen@gmail.com,2123113322,BD,Enrolled,Phonepe,3,1,18-09-21,Pending,2,27000
+54,Aniket,fdeee@gamil.com,9879700067,PY,Enrolled,Googlepay,2,1,19-09-21,Pending,1,19000
+64,Anil,fdeeede@gamil.com,9879700047,PY,Enrolled,Cash,3,1,20-09-21,Pending,2,19000
+65,kiran,aassd21@gamil.com,9979778567,FSD,Enrolled,Card,3,1,21-09-21,Pending,2,23000
+75,Anukul,fdasede@gamil.com,9879711047,PY,Enrolled,Paytm,3,1,22-09-21,Pending,2,19000
+76,santosh,santoshkumar@gamil.com,9133508789,BD,Enrolled,Paytm,3,1,23-09-21,Pending,2,27000
+78,krishna,krishna@gmail.com,7890609876,DS,Enrolled,Phonepe,3,1,24-09-21,Pending,2,34000
+80,madhu,madhu123@gmail.com,8678567887,BD,Enrolled,Phonepe,2,1,25-09-21,Pending,1,27000
+82,sravanthi,srav123@gmail.com,8765056767,DS,Not enrolled,Googlepay,,,,,,
+84,pawan,pawan@gmail.com,8765321789,DS,Enrolled,Googlepay,1,1,30-09-21,Paid,0,34000
+85,jasmin,jasmin@gmail.com ,9765056123,PY,Enrolled,Googlepay,1,1,30-09-21,Paid,0,19000
+87,kajal,kajal@gmail.com,8767898760,AI,Enrolled,Googlepay,1,1,12-09-21,Paid,0,34000
+89,santhosh,kumar@gmail.com,9095056789,FSD,Enrolled,Card,3,1,13-09-21,Pending,2,23000
+92,jawali,jawali@gmail.com,9078676234,AI,Not enrolled,Card,,,,,,
+95,prabhas,prabhas@gmail.com,9085076234,PY,Enrolled,Cash,3,1,24-09-21,Pending,2,19000
+96,malliswari,malli@gmail.com,8765076678,DS,Not enrolled,Cash,,,,,,
+98,vijay,vijay@gmail.com,9865076234,FSD,Enrolled,Cash,1,1,01-09-21,Paid,0,23000
+100,rohithsharma,hitman@gmail.com,9026426426,BD,Enrolled,Paytm,1,1,02-09-21,Paid,0,27000
+101,kareem,kareemv46@gmail.com,9876543212,BD,Enrolled,Paytm,3,1,03-09-21,Pending,2,27000
+103,sam, shane.wisozk@hotmail.com,NULL,PY,Enrolled,Card,2,1,04-09-21,Pending,1,19000
+105,mooner,bernard.jenkins96@gmail.com,765437289,AI,Enrolled,Card,3,1,04-09-21,Pending,3,34000
+107,Hercules,sigurd_schmidt38@yahoo.com,6239097648,BD,Enrolled,Cash,,,,Paid,,34000
+111,inosuke,yasmeen_cummings@yahoo.com,9767675645,PY,Enrolled,Googlepay,2,1,12-09-21,Pending,1,19000
+113,itachi,idell12@yahoo.com,8725436372, AI,Not enrolled,,,,,,,
+115,sasuke,josiane.steuber@hotmail.com,9002289922,PY,Enrolled,Phonepe,,,,Paid,,19000
+117,john abrar, jalyn.dare@hotmail.com,8000002345,PY,Enrolled ,Card,3,1,20-09-21,Pending,2,19000
+119,faiz shaik,erin37@hotmail.com,8909090909, FSD,Enrolled,Paytm,,,,Paid,,23000
+121,Sameer,deondre71@hotmail.com,8765432190, AI,Enrolled ,Cash,3,1,11-09-21,Pending,2,34000
+123,harsha,cody.beer@yahoo.com,9988776655,DS,Enrolled,Googlepay,2,1,18-09-21,Pending,1,34000
+125,ravi,trudie49@yahoo.com,7289890976, DS,Enrolled,Phonepe,,,,Paid,,34000
+126,santosh,san@gmail.com,9587632522,DS,Enrolled ,Paytm,3,1,17-09-21,Pending,2,34000
+127,punam,punam4@gmail.com,2398754132,AI,Not enrolled,,,,,,,
+129,raja,rajad65@gmail.com,1122334499,DS,Enrolled,Card,,,,Paid,,34000
+130,nehal,nehal@gmail.com,9874555212,BD,Enrolled,Cash,,,,Paid,,27000
+132,sudhir,sud@gmail.com,9988647112,AI,Enrolled ,Phonepe,3,1,,Pending,2,34000
+135,rutvika,rut@gmail.com,3336325875,PY,Enrolled,Paytm,2,1,15-09-21,Pending,1,19000
+136,sumedh,sum@gmail.com,1789984752,FSD,Enrolled ,Googlepay,,,,Paid,,23000
+137,rahil,rahil@gmail.com,8466998898,BD,Enrolled,Cash,3,1,16-09-21,Pending,2,27000
+140,rajesh,rajesh@gmail.com,2278698745,DS,Enrolled,Phonepe,,,,Paid,,34000
+143,rushali,rush@gmail.com,1233326545,FSD,Enrolled,Paytm,2,1,11-09-21,Pending,1,23000
+147,sonal,sonal3422@gmail.com,6563113322,BD,Not enrolled,,,,,,,

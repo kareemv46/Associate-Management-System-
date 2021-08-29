@@ -1,0 +1,51 @@
+1,Dhruvana,dhru@gmail.com,9618530448,BD,16-9-21,WD,Monday,10am
+6,Maneesh,maneesh@gmail.com,9963555228,BD,16-9-21,WD,Monday,10am
+11,Kruthin,kruthin@ymail.com,7459032446,BD,18-9-21,WD,Wednesday,4pm
+13,Nikhil,nikhil@gmail.com,8765003641,PY,21-9-21,WE,Saturday,10am
+16,Harinath,harinath@gmail.com,7656349012,BD,16-9-21,WD,Monday,10am
+17,Harish,hariish@gmail.com,9007487654,AI,18-9-21,WD,Wednesday,4pm
+19,Bindu,bindu@gmail.com,9007483120,PY,21-9-21,WE,Saturday,10am
+22,Praveen,praveen@gmail.com,9988775632,FSD,16-9-21,WD,Monday,10am
+23,Anish,anish@gmail.com,9987334456,AI,18-9-21,WD,Wednesday,4pm
+26,trupti,tc@gmail.com,9587632584,DS,21-9-21,WE,Saturday,10am
+30,neha,nehaghosh@gmail.com,9874563212,BD,16-9-21,WD,Monday,10am
+32,surya,sdev@gmail.com,9988647512,AI,18-9-21,WD,Wednesday,4pm
+36,sameer,sam678@gmail.com,1986984752,FSD,16-9-21,WD,Monday,10am
+40,rajiv,raj8@gmail.com,2265998745,DS,16-9-21,WD,Monday,10am
+47,archita,archusen@gmail.com,2123113322,BD,16-9-21,WD,Monday,10am
+54,Aniket,fdeee@gamil.com,9879700067,PY,18-9-21,WD,Wednesday,4pm
+64,Anil,fdeeede@gamil.com,9879700047,PY,21-9-21,WE,Saturday,10am
+65,kiran,aassd21@gamil.com,9979778567,FSD,16-9-21,WD,Monday,10am
+75,Anukul,fdasede@gamil.com,9879711047,PY,18-9-21,WD,Wednesday,4pm
+76,santosh,santoshkumar@gamil.com,9133508789,BD,21-9-21,WE,Saturday,10am
+78,krishna,krishna@gmail.com,7890609876,DS,16-9-21,WD,Monday,10am
+80,madhu,madhu123@gmail.com,8678567887,BD,18-9-21,WD,Wednesday,4pm
+82,sravanthi,srav123@gmail.com,8765056767,DS,21-9-21,WE,Saturday,10am
+84,pawan,pawan@gmail.com,8765321789,DS,16-9-21,WD,Monday,10am
+85,jasmin,jasmin@gmail.com ,9765056123,PY,18-9-21,WD,Wednesday,4pm
+87,kajal,kajal@gmail.com,8767898760,AI,21-9-21,WE,Saturday,10am
+89,santhosh,kumar@gmail.com,9095056789,FSD,16-9-21,WD,Monday,10am
+92,jawali,jawali@gmail.com,9078676234,AI,18-9-21,WD,Wednesday,4pm
+95,prabhas,prabhas@gmail.com,9085076234,PY,21-9-21,WE,Saturday,10am
+96,malliswari,malli@gmail.com,8765076678,DS,16-9-21,WD,Monday,10am
+98,vijay,vijay@gmail.com,9865076234,FSD,18-9-21,WD,Wednesday,4pm
+100,rohithsharma,hitman@gmail.com,9026426426,BD,21-9-21,WE,Saturday,10am
+101,kareem,kareemv46@gmail.com,9876543212,BD,16-9-21,WD,Monday,10am
+103,sam, shane.wisozk@hotmail.com,NULL,PY,18-9-21,WD,Wednesday,4pm
+105,mooner,bernard.jenkins96@gmail.com,765437289,AI,21-9-21,WE,Saturday,10am
+107,Hercules,sigurd_schmidt38@yahoo.com,6239097648,BD,16-9-21,WD,Monday,10am
+111,inosuke,yasmeen_cummings@yahoo.com,9767675645,PY,18-9-21,WD,Wednesday,4pm
+115,sasuke,josiane.steuber@hotmail.com,9002289922,PY,16-9-21,WD,Monday,10am
+117,john abrar, jalyn.dare@hotmail.com,8000002345,PY,18-9-21,WD,Wednesday,4pm
+119,faiz shaik,erin37@hotmail.com,8909090909, FSD,21-9-21,WE,Saturday,10am
+121,Sameer,deondre71@hotmail.com,8765432190, AI,16-9-21,WD,Monday,10am
+123,harsha,cody.beer@yahoo.com,9988776655,DS,18-9-21,WD,Wednesday,4pm
+125,ravi,trudie49@yahoo.com,7289890976, DS,21-9-21,WE,Saturday,10am
+126,santosh,san@gmail.com,9587632522,DS,16-9-21,WD,Monday,10am
+130,nehal,nehal@gmail.com,9874555212,BD,18-9-21,WD,Wednesday,4pm
+132,sudhir,sud@gmail.com,9988647112,AI,21-9-21,WE,Saturday,10am
+135,rutvika,rut@gmail.com,3336325875,PY,16-9-21,WD,Monday,10am
+136,sumedh,sum@gmail.com,1789984752,FSD,18-9-21,WD,Wednesday,4pm
+137,rahil,rahil@gmail.com,8466998898,BD,21-9-21,WE,Saturday,10am
+140,rajesh,rajesh@gmail.com,2278698745,DS,16-9-21,WD,Monday,10am
+143,rushali,rush@gmail.com,1233326545,FSD,18-9-21,WD,Wednesday,4pm
