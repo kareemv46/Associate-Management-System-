@@ -45,6 +45,12 @@ This table contains list of all the students who have enrolled and drop course.d
 
 * batch table this table contains details of students who joined training where data is taken from enroll table with added attributes like joining_date,week_day,day,time
 
+## CONTRIBUTERS
+* 1)KARAN JAIN
+* 2)MOHAMMED ZAKIKAREEM
+* 3)GAURAV MISAL
+* 4)TRUPTI CHAUDHARI
+
 
 ## License
 This project uses the following license: [MIT License](LICENSE)
