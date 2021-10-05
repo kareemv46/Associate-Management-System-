@@ -1,5 +1,5 @@
 # HIVE PROJECT
-# FUTURE 4 IT
+# Associate-Management-System
 
 ### DESCRIPTION
 * This project created in hive. <br> 
@@ -9,7 +9,7 @@
 * We also performed queries in tables where we extracted the data from it. <br>
 * We run this project in hive terminal in cdh5 and hue from browser. <br>
 
-### TOOLS AND TECHNOLOGIES
+### TECHNOLOGIES USED
 1)Cloudera5 <br>
 2)Hadoop <br>
 3)Hue <br>
@@ -26,12 +26,6 @@
 * Availability of both Online and Offline mode of training. <br>
 * Updation can be performed on master table. <br>
 
-### TABLES
-1)ENQUIRY table(ORC and master table) <br>
-2)DEMO_SCHEDULE table <br>
-3)DEMO_MISSED table <br>
-4)COURSE_ENROLL Table <br>
-5)BATCH_DISTRIBUTION table <br>
 
 ### Getting Started
 * enquiry table(ORC and master table)
@@ -50,3 +44,7 @@ This table contains list of all the students who have enrolled and drop course.d
 
 
 * batch table this table contains details of students who joined training where data is taken from enroll table with added attributes like joining_date,week_day,day,time
+
+
+## License
+This project uses the following license: [MIT License](LICENSE)
