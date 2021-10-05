@@ -1,5 +1,5 @@
-# HIVE PROJECT
-# Associate-Management-System
+
+# Associate Management System
 
 ### DESCRIPTION
 * This project created in hive. <br> 
